@@ -9,7 +9,7 @@ Astra Sheets AI is a secure, server-based tool that makes it easy to convert Exc
 ## 📫 Contact
 
 For licensing or partnership inquiries:  
-**Stephen** – Founder  
+**Stephen Tracey** – Founder  
 📧 stephentracey1@gmail.com
 
 ---
