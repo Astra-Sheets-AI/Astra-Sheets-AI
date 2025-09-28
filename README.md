@@ -4,7 +4,7 @@
 
 **Smart spreadsheet transformation for modern workflows.**
 
-Astra Sheets AI is a proprietary tool designed to convert Excel Sheets and CSV files, from one format to another, creating import-ready formats using intelligent field mapping and drag-and-drop schema alignment.
+Astra Sheets AI is a secure, server-based tool that makes it easy to convert Excel and CSV files into import-ready formats. It features both intelligent field name matching and manual mapping options, all within a clean, easy-to-use interface.
 
 ## 📫 Contact
 
